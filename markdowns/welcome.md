@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to Krunal's Playground!
 
 This React template lets you get started quickly with a simple working example using React (with `yarn`). If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
 
@@ -6,7 +6,8 @@ The source code for this template is on [GitHub](https://github.com/TechDotIO/re
 
 # Hands-on Demo
 
-@[Sample React App Boilerplate]({"stubs": ["src/app/app.jsx", "src/main.js"], "command": "./run.sh"})
+@[Krunal's React Snippet]({"stubs": ["src/app/app.jsx", "src/main.js", "src/index.tpl.html"], "command": "./run.sh"})
+
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/react-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
